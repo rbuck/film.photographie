@@ -4,8 +4,6 @@
 
 Film Developing Charts
 
-![Clouds][https://www.instagram.com/p/CqI2ZUpufog/]
-
 ## Contents
 
 - [Black & White Processing](./by_film/B%26W.md)
