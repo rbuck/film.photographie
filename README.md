@@ -8,7 +8,15 @@ Film Developing Charts
 
 - [Black & White Processing](./by_film/B%26W.md)
 - [Color Processing](./by_film/C41.md)
-### Chemistry
+
+### By Film
+
+- [Ilford FP4+](by_film/Ilford/ILFORD_FP4.md)
+- [Ilford HP5+](by_film/Ilford/ILFORD_HP5Plus.md)
+- [Ilford Delta 3200](by_film/Ilford/ILFORD_DELTA_3200.md)
+- [Kodak Tmax 400](by_film/Kodak/KODAK_TMAX_400.md)
+
+### By Chemistry
 
 - [Cinestill cs41](./by_chemistry/CINESTILL_CS41.md)
 
