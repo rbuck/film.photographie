@@ -18,3 +18,12 @@ Film Developing Charts
 2. [The Massive Dev Chart](https://www.digitaltruth.com/devchart.php)
 
   [logo]: https://scontent-bos5-1.cdninstagram.com/v/t51.2885-19/332671695_530672632487728_1756571279610039892_n.jpg?stp=dst-jpg_s150x150&_nc_ht=scontent-bos5-1.cdninstagram.com&_nc_cat=104&_nc_ohc=ByAQTTWzMewAX9S71QT&edm=AAAAAAABAAAA&ccb=7-5&oh=00_AfB7hfJIZk_HWBQecqIU6pvxKH4MX_r-Q72XqCpJQJNNEA&oe=649E95D8
+
+## Contributions
+
+Contributions are welcome.
+
+### Developer Dependencies
+
+- GNU Make
+- pre-commit
