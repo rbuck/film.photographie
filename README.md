@@ -21,9 +21,4 @@ Film Developing Charts
 
 ## Contributions
 
-Contributions are welcome.
-
-### Developer Dependencies
-
-- GNU Make
-- pre-commit
+Contributions are gladly welcomed. Simply fork, and push a PR containing your changes.
