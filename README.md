@@ -19,4 +19,4 @@ Film Developing Charts
 1. [Instagram Account](https://www.instagram.com/film.photographie/)
 2. [The Massive Dev Chart](https://www.digitaltruth.com/devchart.php)
 
-  [logo]: https://scontent.cdninstagram.com/v/t51.2885-15/337165458_539829121613088_8682663666428390128_n.webp?stp=dst-jpg_e35&_nc_ht=scontent.cdninstagram.com&_nc_cat=100&_nc_ohc=EoxMdbz6rFwAX8nvimg&edm=APs17CUBAAAA&ccb=7-5&ig_cache_key=MzA2NDkzODc4MTA5OTAzMTA3Mg%3D%3D.2-ccb7-5&oh=00_AfDDEexdYre-fVbhE6AX4fhJrVGWzk7V5pdfmKab9RPsEw&oe=649DFFF1&_nc_sid=df044f
+  [logo]: https://scontent-bos5-1.cdninstagram.com/v/t51.2885-19/332671695_530672632487728_1756571279610039892_n.jpg?stp=dst-jpg_s150x150&_nc_ht=scontent-bos5-1.cdninstagram.com&_nc_cat=104&_nc_ohc=ByAQTTWzMewAX9S71QT&edm=AAAAAAABAAAA&ccb=7-5&oh=00_AfB7hfJIZk_HWBQecqIU6pvxKH4MX_r-Q72XqCpJQJNNEA&oe=649E95D8
