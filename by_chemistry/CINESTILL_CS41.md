@@ -29,3 +29,5 @@ The following is per the Cinestill instructions.
 | 22    | 5:24      | 23:24 |
 | 23    | 5:31      | 24:34 |
 | 24    | 5:37      | 25:48 |
+
+[Next Step](../by_film/C41.md#cinestill-cs41-liquid-instructions)
