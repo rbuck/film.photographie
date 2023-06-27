@@ -2,7 +2,7 @@
 
 # film.photographie
 
-Film Developing Charts
+Film Developing Guide
 
 ## Contents
 
@@ -31,4 +31,4 @@ Start here:
 
 ## Contributions
 
-Contributions are gladly welcomed. Simply fork, and push a PR containing your changes.
+Thank you for your interest in contributing additional developing guides! Please refer to [CONTRIBUTING.md](CONTRIBUTING.md) for guidance
