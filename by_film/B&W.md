@@ -1,6 +1,11 @@
 # Black & White Processing
 
-[README](../README.md)
+### Table of Contents
+
+1. [Nikor One-Roll Tank](#nikor-one-roll-35-mm-stainless-steel-tank)
+2. [Nikor Two-Roll Tank](#nikor-two-roll-35-mm-stainless-steel-tank)
+
+[Back to README](../README.md)
 
 ## NIKOR One-Roll 35 mm Stainless Steel Tank
 
@@ -14,14 +19,14 @@ Add 20 C water to tank and let stand for 2 minutes to stabilize the temperature 
 
 ### *Developer*
 
-See film-specific instructions:
+> n.b. See film-specific instructions:
 
 | Film                               | ASA | Push/Pull | Ratio | Developer | Stock | Water | Time |
 |------------------------------------|-----|-----------|-------|-----------|-------|-------|------|
+| [Ilford FP4](Ilford/ILFORD_FP4.md)        | 125 |    0      |  1+50 | Rodinal   |  48   |  192  | 15   |
 | [Ilford HP5+](Ilford/ILFORD_HP5Plus.md)   | 400 |   -1      |  1+2  | Perceptol |  80   |  160  | 14.5 |
 | [Ilford HP5+](Ilford/ILFORD_HP5Plus.md)   | 400 |    0      |  1+3  | Perceptol |  80   |  160  | 25   |
 | [Ilford Delta 3200](Ilford/ILFORD_DELTA_3200.md) | 3200 | -2 | 1+4  | DD-X      |  48   |  192  |  5   |
-| [Ilford FP4](Ilford/ILFORD_FP4.md)        | 125 |    0      |  1+50 | Rodinal   |  48   |  192  | 15   |
 
 ### *Water Rinse*
 
@@ -62,6 +67,16 @@ Ratio: 1+4
 - Pour back in bottle; may be used for up to 3 rolls per 500 ml
 - Total time is 5 minutes
 
+### *Water Wash*
+
+Volume: 240 ml
+
+**Instructions**
+
+- Add water, invert 5x, drain down sink
+- Add water, invert 10x, drain down sink
+- Add water, invert 20x, drain down sink
+
 ### *Kodak Professional Photo-Flo*
 
 Ratio: 1+200
@@ -72,9 +87,6 @@ Ratio: 1+200
 
 **Instructions**
 
-- Add water, invert 5x, drain down sink
-- Add water, invert 10x, drain down sink
-- Add water, invert 20x, drain down sink
 - Add solution, agitate VERY SLOWLY for 30 seconds
 - Drain to container for disposal
 
@@ -97,10 +109,10 @@ Follow the instructions for the film being developed, below.
 | Film                               | ASA | Push/Pull | Ratio | Developer | Stock | Water | Time |
 |------------------------------------|-----|-----------|-------|-----------|-------|-------|------|
 | [Ilford FP4](Ilford/ILFORD_FP4.md)        | 125 |    0      |  1+50 | Rodinal   |   9   |  431  | 15   |
-| [Ilford HP5+](Ilford/ILFORD_HP5Plus.md)   | 400 |    0      |  1+3  | Perceptol |  80   |  160  | 25   |
-| [Kodak TMax400](Kodak/KODAK_TMAX_400.md)       | 400 |    0      |  1+50 | Rodinal   |   9   |  431  | 12   |
 | [Ilford HP5+](Ilford/ILFORD_HP5Plus.md)   | 400 |    0      |  1+4  | DD-X      |  88   |  352  | 9    |
+| [Ilford HP5+](Ilford/ILFORD_HP5Plus.md)   | 400 |    0      |  1+3  | Perceptol |  80   |  160  | 25   |
 | [Ilford HP5+](Ilford/ILFORD_HP5Plus.md)   | 400 |    0      |  1+50 | Rodinal   |   9   |  431  | 11   |
+| [Kodak TMax400](Kodak/KODAK_TMAX_400.md)       | 400 |    0      |  1+50 | Rodinal   |   9   |  431  | 12   |
 
 ### *Water Rinse*
 
