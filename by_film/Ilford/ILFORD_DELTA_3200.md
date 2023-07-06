@@ -7,6 +7,7 @@
 | Film          | ASA | Pull/Push | Ratio | Developer | Time |
 |---------------|-----|-----------|-------|-----------|------|
 | Ilford Delta 3200   | 3200 |  -2        |  1+4  | DD-X | 5   |
+| Ilford Delta 3200   | 3200 |   0        |  1+25  | Rodinal | 11   |
 
 **Instructions**
 

@@ -112,7 +112,9 @@ Follow the instructions for the film being developed, below.
 | [Ilford HP5+](Ilford/ILFORD_HP5Plus.md)   | 400 |    0      |  1+4  | DD-X      |  88   |  352  | 9    |
 | [Ilford HP5+](Ilford/ILFORD_HP5Plus.md)   | 400 |    0      |  1+3  | Perceptol |  80   |  160  | 25   |
 | [Ilford HP5+](Ilford/ILFORD_HP5Plus.md)   | 400 |    0      |  1+50 | Rodinal   |   9   |  431  | 11   |
-| [Kodak TMax400](Kodak/KODAK_TMAX_400.md)       | 400 |    0      |  1+50 | Rodinal   |   9   |  431  | 12   |
+| [Kodak TMax400](Kodak/KODAK_TMAX_400.md)           | 400 |    0    |  1+50 | Rodinal   |   9   |  431  | 12   |
+| [Ilford Delta 3200](Ilford/ILFORD_DELTA_3200.md)   | 3200 |   0    |  1+25  | Rodinal | 17   | 423 | 11 |
+
 
 ### *Water Rinse*
 
